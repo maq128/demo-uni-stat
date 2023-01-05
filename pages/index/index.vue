@@ -13,7 +13,7 @@
 			</text>
 			<text class="title">
 				<a href="https://uniapp.dcloud.net.cn/uniCloud/uni-cloud-push/mate.html" target="_blank">官方文档</a>
-				说 uni 统计模块在启动时会报送本设备的 device_id 和 push_client_id。
+				说 uni 统计模块在启动时会报送本设备的 device_id 和 push_clientid。
 			</text>
 			<text class="title">
 				请检查云数据库 opendb-device 表里面的记录，可能 push_clientid 字段为空串，
