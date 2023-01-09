@@ -75,7 +75,10 @@
     "uniStatistics" : {
         "debug" : true,
         "enable" : false,
-        "version" : "2"
+        "version" : "2",
+        "collectItems": {
+            "uniPushClientID": true
+        }
     },
     "vueVersion" : "2",
     "h5" : {
